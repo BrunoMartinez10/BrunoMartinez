@@ -1,0 +1,27 @@
+body {
+    background-color: orange;
+  }
+  
+  .jumbotron {
+    background-color: white;
+  }
+  
+  .card {
+    background-color: white;
+  }
+  
+  .btn-primary {
+    background-color: orangered;
+    border-color: orangered;
+  }
+  
+  .footer {
+    background-color: orange;
+    color: white;
+    text-align: center;
+    padding: 10px;
+  }
+  
+  .footer a {
+    color: white;
+  }
